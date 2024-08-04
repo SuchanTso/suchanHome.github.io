@@ -41,17 +41,6 @@
     
     
     <entry>
-      <title>about Suchan</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="about-me"><a href="#about-me" class="headerlink" title="about me"></a>about me</h1><p>suchanTso</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -68,6 +57,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about Suchan</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="about-me"><a href="#about-me" class="headerlink" title="about me"></a>about me</h1><p>suchanTso</p>]]></content>
       
     </entry>
     
